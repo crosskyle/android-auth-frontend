@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hybrid Project</string>
+    <string name="title_activity_auth_complete">AuthCompleteActivity</string>
+</resources>
